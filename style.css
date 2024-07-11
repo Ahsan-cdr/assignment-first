@@ -99,4 +99,6 @@
 footer{
     display: flex;
     justify-content: space-between;
+    background-color: rgb(164, 161, 161);
+    background-size: cover;
 }
